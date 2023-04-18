@@ -6,3 +6,6 @@ var age = 29
 var zipCode = 80501
 var birthYear = 1994
 
+var email = "mrvillagran16@gmail.com"
+var emotions = "happy"
+var favoritePlant = "cacti"
