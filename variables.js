@@ -10,9 +10,9 @@ var email = "mrvillagran16@gmail.com"
 var emotions = "happy"
 var favoritePlant = "cacti"
 
-var email = "happyhills@gmail.com"
-var emotions = "tired"
-var  favoritePlant = "daffodils"
+email = "happyhills@gmail.com"
+emotions = "tired"
+favoritePlant = "daffodils"
 
 console.log(age)
 console.log(favoritePlant)
